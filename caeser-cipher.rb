@@ -43,9 +43,3 @@ end
 
 
 main()
-
-
-=begin 
-// inserire all'interno di un hash le lettere dell'alfabeto, e il corrispondente valore
-// per prendere le lettere dell'alfabeto e shiftarle, posso fare uno slice che toglie la roba dall'inizio dello shift, e lo riposiziona alla fine
-=end
